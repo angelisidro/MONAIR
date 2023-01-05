@@ -9,6 +9,7 @@
  	</p>
 </div>
 
+<div>	
 <h2 > Variables ambientales </h2>
 
 <ul>
@@ -19,3 +20,4 @@
   <li>PM2.5</li>
   <li>PM10</li>
 </ul>  
+</div>
