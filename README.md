@@ -22,6 +22,6 @@
 </ul>  
 </div>
 /Img/SmartHome.jpeg)
-<img src="/Img/SmartHome.jpeg"
+<img src="/img/mon1.jpeg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
