@@ -21,3 +21,7 @@
   <li>PM10</li>
 </ul>  
 </div>
+/Img/SmartHome.jpeg)
+<img src="/Img/SmartHome.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
