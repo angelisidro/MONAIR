@@ -1,5 +1,8 @@
 <h1> MONAIR </h1>
- 
+ 	<div>
+ 			<img src="/img/frontMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+ 			<img src="/img/backMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+	</div>
  <div>	
  	<p>	
 		Proyecto MONAIR, es una red de monitoreo de calidad de aire bajo costo que se esta desarrollando en Guatemala, por el equipo del laboratorio de investigación y desarrollo Tesla Lab que pertenece a Universidad Galileo.
@@ -22,6 +25,3 @@
 </ul>  
 </div>
 /Img/SmartHome.jpeg)
-<img src="/img/mon1.jpeg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
