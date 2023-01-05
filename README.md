@@ -1,7 +1,7 @@
 <h1> MONAIR </h1>
  	<div>
- 			<img src="/img/frontMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
- 			<img src="/img/backMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+ 			<img src="/img/FrontMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+ 			<img src="/img/BackMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 	</div>
  <div>	
  	<p>	
