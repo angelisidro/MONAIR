@@ -6,7 +6,11 @@
 
 ## Variables ambientales 
 
--Temperatura 
--Humedad
--PM2.5
-
+<ul>
+  <li>Temeratura</li>
+  <li>Humedad</li>
+  <li>CO2e</li>
+  <li>VOCe</li>
+  <li>PM2.5</li>
+  <li>PM10</li>
+</ul>  
