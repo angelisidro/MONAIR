@@ -1,6 +1,8 @@
 <h1> MONAIR </h1>
  	<div style="max-width: 800px; display: inline;" class="img";>
  			<img src="/img/FrontMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+ 	</div>
+ 	<div>	
  			<img src="/img/BackMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 	</div>
  <div>	
