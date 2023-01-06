@@ -1,5 +1,5 @@
 <h1> MONAIR </h1>
- 	<div style="max-width: 800px; display: inline;" class="img";>
+	<div style="max-width: 800px; display: inline;" class="img";>
  			<img src="/img/FrontMonair.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
  	</div>
  	<div>	
@@ -14,7 +14,7 @@
  	</p>
 </div>
 
-<div>	
+	
 <h2 > Variables ambientales </h2>
 
 <ul>
@@ -25,5 +25,3 @@
   <li>PM2.5</li>
   <li>PM10</li>
 </ul>  
-</div>
-/Img/SmartHome.jpeg)
